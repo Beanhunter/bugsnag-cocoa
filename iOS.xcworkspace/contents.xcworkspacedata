@@ -7,7 +7,4 @@
    <FileRef
       location = "group:iOS/Bugsnag.xcodeproj">
    </FileRef>
-   <FileRef
-      location = "group:development/Kiwi/Kiwi.xcodeproj">
-   </FileRef>
 </Workspace>
